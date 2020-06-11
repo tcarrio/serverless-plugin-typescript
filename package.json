@@ -1,6 +1,6 @@
 {
   "name": "@0xc/serverless-plugin-typescript",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "license": "MIT",
   "private": false,
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.sr.ht/~tcarrio/serverless-plugin-typescript.git"
+    "url": "https://git.sr.ht/~tcarrio/serverless-plugin-typescript.git"
   },
   "keywords": [
     "serverless",
