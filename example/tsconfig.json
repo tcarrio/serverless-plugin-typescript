@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "declaration": true,
+    "target": "ES2017",
+    "outDir": "./dist"
+  }
+}
