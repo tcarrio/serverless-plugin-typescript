@@ -11,12 +11,12 @@ const BUILD_FOLDER = ".build";
 const PLUGIN_NAME = "serverless-plugin-typescript";
 
 export class TypeScriptPlugin {
-  private isWatching: boolean = false;
+  private isWatching = false;
   private config: Serverless.PluginConfig;
 
   public serverless: Serverless.Instance;
   public options: Serverless.Options;
-  public hooks: { [key: string]: Function };
+  public hooks: { [key: string]: Serverless.HookFunc };
 
   public constructor(
     serverless: Serverless.Instance,
