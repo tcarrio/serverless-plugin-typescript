@@ -1,3 +1,5 @@
+[![builds.sr.ht status](https://builds.sr.ht/~tcarrio/serverless-plugin-typescript/.build.yml.svg)](https://builds.sr.ht/~tcarrio/serverless-plugin-typescript/.build.yml?) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # @0xc/serverless-plugin-typescript
 
 This is a fork of the `serverless-plugin-typescript` package.
